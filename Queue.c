@@ -1,3 +1,10 @@
+/**
+ * @file Queue.c
+ *
+ * @author Tobias Lans
+ * @date 2018-05-07
+ **/
+ 
 #include <assert.h>
 #include <stdlib.h>
 #include <stdio.h>

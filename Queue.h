@@ -1,3 +1,10 @@
+/**
+ * @file Queue.h
+ *
+ * @author Tobias Lans
+ * @date 2018-05-07
+ **/
+ 
 #ifndef QUEUE_H
 #define QUEUE_H
 
